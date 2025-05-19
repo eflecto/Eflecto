@@ -18,12 +18,7 @@
 ### 🚀 **Current Projects**  
 - ☢️ **Radiation-Sensing Drone** – For when you *really* need to check your backyard.  
 - 💣 **Jinx Grenade 3D Model** – Because even engineers need fun.  
-- 📚 **Passing Finals at MIPT** – *The ultimate boss fight.*  
-
-### 🤖 **Fun Facts**  
-- I once debugged a circuit with a toothpick (don’t ask).  
-- My creativity is **90% caffeine**, 10% datasheets.  
-- I low-key believe **Iron Man’s arc reactor** could work (with enough funding).  
+- 📚 **Passing Finals at FTI** – *The ultimate boss fight.*  
 
 ### 📫 **Let’s Connect**  
 - **Email:** i@eflecto.ru  
