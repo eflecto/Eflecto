@@ -28,7 +28,7 @@
 - I low-key believe **Iron Man’s arc reactor** could work (with enough funding).  
 
 ### 📫 **Let’s Connect**  
-- **Email:** [i@eflecto.ru]  
+- **Email:** i@eflecto.ru  
 
-- **Telegram:** [@Eflecto] *(I post memes and circuit fails.)*  
+- **Telegram:** @Eflecto *(I post memes and circuit fails.)*  
 
