@@ -17,8 +17,7 @@
 
 ### 🚀 **Current Projects**  
 - ☢️ **Radiation-Sensing Drone** – For when you *really* need to check your backyard.  
-- 💣 **Jinx Grenade 3D Model** – Because even engineers need fun.  
-- 📚 **Passing Finals at FTI** – *The ultimate boss fight.*  
+- 💣 **Jinx Grenade 3D Model** – Because even engineers need fun.    
 
 ### 📫 **Let’s Connect**  
 - **Email:** i@eflecto.ru  
