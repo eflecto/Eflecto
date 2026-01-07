@@ -15,9 +15,7 @@
 - **3D Modeling:** COMPASS-3D, Fusion 360 (for when hardware needs *drip*).  
 - **Other:** Radiation measurements, Sci-Fi weapon concepts (*purely academic… or is it?*).  
 
-### 🚀 **Current Projects**  
-- ☢️ **Radiation-Sensing Drone** – For when you *really* need to check your backyard.  
-- 💣 **Jinx Grenade 3D Model** – Because even engineers need fun.    
+
 
 ### 📫 **Let’s Connect**  
 - **Email:** i@eflecto.ru  
