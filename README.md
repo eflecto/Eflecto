@@ -15,7 +15,9 @@
 - **3D Modeling:** COMPASS-3D, Fusion 360 (for when hardware needs *drip*).  
 - **Other:** Radiation measurements, Sci-Fi weapon concepts (*purely academic… or is it?*).  
 
+## 🌙 Hobbies
 
+- **Evening vibe-coding** making random utilities — some useful, some absolutely pointless (purely for fun).
 
 ### 📫 **Let’s Connect**  
 - **Email:** i@eflecto.ru  
