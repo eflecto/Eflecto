@@ -10,10 +10,15 @@
 - Use neural networks to write my READMEs... *wait, how did you notice)??*   
 
 ### 🛠️ **Skills**  
-- **PCB Design:** KiCad, Altium (and prayers to the solder gods).  
-- **Embedded Systems:** C/C++, ESP32, RTOS, *"why is this GPIO floating?"* debugging.  
-- **3D Modeling:** COMPASS-3D, Fusion 360 (for when hardware needs *drip*).  
-- **Other:** Radiation measurements, Sci-Fi weapon concepts (*purely academic… or is it?*).  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A3E0?style=for-the-badge&logo=freertos&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-2E2E2E?style=for-the-badge)
+![GPIO Debug](https://img.shields.io/badge/GPIO%20Debug-2E2E2E?style=for-the-badge)
+![COMPASS-3D](https://img.shields.io/badge/COMPASS--3D-C0C0C0?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 ## 🌙 Hobbies
 
