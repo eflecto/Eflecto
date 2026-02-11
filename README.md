@@ -1,6 +1,6 @@
 # ⚡ Hello, I'm Eflecto – Electronics Engineer 
 
-**"Turning circuits into solutions… and occasionally into smoke."**  
+**"Turning circuits into solutions… and occasionally into smoke"**  
 
 ### 🔧 **What I Do**  
 - Design **PCBs** like digital art (but with more solder).  
