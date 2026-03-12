@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm Eflecto – Electronics Engineer 
+# ⚡ Hello, I'm Eflecto – Electronics Engineer! 
 
 **Turning circuits into solutions.. and occasionally into smoke**  
 
